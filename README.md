@@ -1,7 +1,7 @@
 # Personal Portfolio
 
 ### Light Mode
-![Portfolio Screenshot-Light Mode](https://github.com/fredrickkisingo/new-portfolio/blob/main/assets/img/fredportfolio.png)
+![Portfolio Screenshot-Light Mode](/assets/img/fredportfolio.png)
 
 ### Dark Mode
 ![Portfolio Screenshot-Dark Mode](/assets/img/fredrickdarkportfolio.png)
